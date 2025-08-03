@@ -16,13 +16,13 @@
 <pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 20.04 && reboot</code></pre>
 ### rebuild ubuntu 22
 
-<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 22 && reboot</code></pre>
+<pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 22.04 && reboot</code></pre>
 ### rebuild ubuntu 24
 
 <pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Ubuntu 24.04 && reboot</code></pre>
 
 ### INSTALL SCRIPT 
-<pre><code>apt update -y && apt install -y wget curl screen && wget -q https://raw.githubusercontent.com/satria293/vip/main/setup.sh && chmod +x setup.sh && screen -S ./setup.sh
+<pre><code>apt update -y && apt install -y wget curl screen && wget -q https://raw.githubusercontent.com/satria293/vip/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
