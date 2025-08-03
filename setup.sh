@@ -1,5 +1,5 @@
 #!/bin/bash
-name="SATRIA STORE"
+name="SATRIA_STORE"
 domain_input="$1"
 if [[ -z "$name" || -z "$domain_input" ]]; then
   echo -e "${RED}[ERROR]${NC} Penggunaan: $0 <domain|random>"
